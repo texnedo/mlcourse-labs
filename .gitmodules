@@ -1,0 +1,3 @@
+[submodule "mlcourse.ai"]
+	path = mlcourse.ai
+	url = https://github.com/Yorko/mlcourse.ai.git
